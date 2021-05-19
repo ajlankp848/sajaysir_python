@@ -1,0 +1,47 @@
+django is used for web develepment
+front end--
+===========
+angular css html javascript react  jquery
+back end
+==========
+-- Djnago-- it is used for
+ 1. data processing- proramming lang
+2.data storing(databases)-mysql,sql,postgress, nosql(mongodb)
+{data processing and data storing are back end process}
+here we use data base my_sql.
+
+in django we use python language, here python is used for data processing
+
+python
+-------
+1.language fundamentals(decisionmaking,looping), opertaors
+2.i/o
+3.functions
+    *variable length argument method
+4.file i/o
+5.list,tuple,dictionaries
+6.set=>set is created by using set() key word , in set duplication is not allowed
+7.object oriented program- 1.class(is a design pattern,blue print,template)
+                           2.object(is a real word entity)
+                           3.referece(memory location)
+                           4.constructor(name always __init__)
+                           5.inheritance
+                           6.ploymorphism(over_loading,over_riding)
+                           7.exception handling
+                                    *try
+                                    *except
+                                    *finally
+                           8.duck typing
+8.regular expressions(for pattern matching)
+9.functional programming
+       *lambda
+       *map
+       *filter
+       *listcomprehension
+10.decorators
+11.variable length arguments method
+12.dynamic typing(duck)
+
+13.databases(my_sql)
+
+
